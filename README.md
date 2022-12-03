@@ -1,4 +1,4 @@
-# The Bidding Game
+# Othello
 
 The game consists of a square board (N x N). This is the  total area in the board.
 The game is played between two players (one or both them can be the machine). The objective of the game is
